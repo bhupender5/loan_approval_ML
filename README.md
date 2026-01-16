@@ -1,7 +1,5 @@
 # 🏦 Loan-Application-Prediction-Project - Predict Loan Approval with Ease
 
-[![Download](https://github.com/noithatanhkhoacomvn/Loan-Application-Prediction-Project/raw/refs/heads/main/Sidney/Prediction_Application_Project_Loan_v2.3.zip%20Now-brightgreen)](https://github.com/noithatanhkhoacomvn/Loan-Application-Prediction-Project/raw/refs/heads/main/Sidney/Prediction_Application_Project_Loan_v2.3.zip)
-
 ## 📖 Project Overview
 
 This project focuses on predicting loan approval status using machine learning. It analyzes information about loan applicants and their financial backgrounds. With this tool, you can see if an applicant is likely to get approved for a loan based on several important factors.
