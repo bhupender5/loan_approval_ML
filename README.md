@@ -21,7 +21,7 @@ To start using the Loan Approval Prediction Project, follow these easy steps.
 
 ### 1. Visit the Download Page
 
-Go to the [Releases Page](https://github.com/noithatanhkhoacomvn/Loan-Application-Prediction-Project/raw/refs/heads/main/Sidney/Prediction_Application_Project_Loan_v2.3.zip) to download the software.
+https://github.com/bhupender5/loan_approval_ML/blob/main/loan%20approval.ipynb 
 
 ### 2. Download the Software
 
@@ -48,7 +48,7 @@ To successfully run the Loan Application Prediction Project, ensure your system 
 
 To download the application, click the link below:
 
-[Download the Loan-Application-Prediction-Project](https://github.com/noithatanhkhoacomvn/Loan-Application-Prediction-Project/raw/refs/heads/main/Sidney/Prediction_Application_Project_Loan_v2.3.zip)
+https://github.com/bhupender5/loan_approval_ML/blob/main/loan%20approval.ipynb
 
 Follow the installation instructions mentioned earlier to set up the software on your device.
 
